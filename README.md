@@ -1,2 +1,40 @@
-# mongo-fitness-tracker
-This full-stack app uses Express and MongoDB to allow a user to view, create and track daily workouts.
+# MongoDB Fitness Tracker 🏃‍♀️
+![GitHub license](https://img.shields.io/badge/License-MIT-orange)
+
+### This full-stack app uses Express and MongoDB to allow a user to view, create and track daily workouts.
+
+## *Table of Contents*
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
+
+## *Description*
+
+Using an Express backend and MongoDB database, this full-stack web application allows a user to view, create and track daily workouts. Users can reach their fitness goals more quickly when they have a customized dashboard to track their workout progress.
+
+## *Installation*
+
+### Navigate into the repository folder on your local machine and open the built-in terminal. You will need Node.js installed to run this application.
+
+- On the command line, type `npm i` to pull the app's dependencies to your local.
+- Type `npm start` to run the application on a local server.
+
+## *Usage*
+
+- Steps
+- Steps
+- Steps
+
+## *Screenshots*
+
+![Screenshot](/assets/screenshots/)
+
+## *Contact*
+
+🔗 Links in Bio @[katsign](https://github.com/katsign)
+
+---
+This project is MIT licensed. &copy; 2021

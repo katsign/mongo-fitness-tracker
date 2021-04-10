@@ -1,7 +1,6 @@
 const express = require('express');
 const logger = require('morgan');
 const mongoose = require('mongoose');
-require('./seeders/seed');
 
 const PORT = process.env.PORT || 3000;
 
@@ -18,9 +17,10 @@ require('./routes/html-routes')(app);
 
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout', {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  useUnifiedTopology: true
 });
 
 app.listen(PORT, () => {
-    console.log(`==> 🌐 App running at https://localhost/${PORT}...`);
+    console.log(`==> 🌐 App running at https://localhost:${PORT}...`);
   });

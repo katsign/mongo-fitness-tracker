@@ -12,15 +12,15 @@
 
 <body>
   <nav>
-    <a href="/">Fitness Tracker</a>
-    <a href="/stats">Dashboard</a>
+    <a class="ui medium header grey" href="/">Fitness Tracker</a>
+    <a class="ui medium header grey right floated" href="/stats">Dashboard</a>
   </nav>
   <div class="wrapper">
     <header>
       <h1>Fitness Tracker</h1>
     </header>
     <div class="ui container exercise">
-      <div class="ui raised card m-auto">
+      <div class="ui centered card m-auto" id="mainCard">
         <h2>Add Your Exercise</h2>
         <form action="POST">
           <div class="workout-type">
@@ -68,10 +68,10 @@
             </div>
           </div>
           <div class="buttons">
-            <button disabled class="huge ui blue button complete">
+            <button disabled class="huge ui inverted teal basic button complete">
               Complete
             </button>
-            <button disabled class="huge ui positive button add-another">
+            <button disabled class="huge ui inverted violet basic button add-another">
               Add Exercise
             </button>
           </div>

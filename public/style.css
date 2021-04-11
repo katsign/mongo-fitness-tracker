@@ -14,15 +14,18 @@ body,
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
 }
 
 nav {
-  background-color: #5793fd;
-  color: #ffffff;
-  height: 80px;
-  padding: 10px;
-  line-height: 3;
-  font-size: 1.2rem;
+  background-color: linen;
+  color: #222;
+  padding: 3rem;
+}
+
+#mainCard {
+background: #222;
+color: linen;
 }
 
 a,
@@ -75,7 +78,7 @@ select:hover {
 
 select:focus {
   border-color: #aaa;
-  box-shadow: 0 0 1px 3px rgba(59, 153, 252, 0.7);
+  box-shadow: 0 0 1px 3px #aaa;
   box-shadow: 0 0 0 3px -moz-mac-focusring;
   color: #222;
   outline: none;
@@ -100,8 +103,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
-  padding-bottom: 100px;
+  background-color: #fcfcfc;
 }
 
 .card.m-auto,

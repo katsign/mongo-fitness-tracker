@@ -30,7 +30,9 @@ Using an Express backend and MongoDB database, this full-stack web application a
 
 ## *Screenshots*
 
-![Screenshot](/assets/screenshots/)
+![Demo of Homepage](./public/images/ss_index.PNG)
+
+![Demo of Homepage](./public/images/ss_dash.PNG)
 
 ## *Contact*
 

@@ -20,13 +20,15 @@ Using an Express backend and MongoDB database, this full-stack web application a
 ### Navigate into the repository folder on your local machine and open the built-in terminal. You will need Node.js installed to run this application.
 
 - On the command line, type `npm i` to pull the app's dependencies to your local.
-- Type `npm start` to run the application on a local server.
+- Start MongoDB and then type `npm run seed` in terminal to seed the collection.
+- Type `npm start` to run the application locally.
+- Navigate to `https://localhost:3000` in browser to view the development server.
 
 ## *Usage*
 
-- Steps
-- Steps
-- Steps
+- Click `Continue Workout` to add to the most recent workout plan.
+- Click `New Workout` to add a new workout plan to the database.
+- To view progress charts and visuals, click `Dashboard` from the navbar.
 
 ## *Screenshots*
 
@@ -37,6 +39,8 @@ Using an Express backend and MongoDB database, this full-stack web application a
 ## *Contact*
 
 🔗 Links in Bio @[katsign](https://github.com/katsign)
+
+![Email Badge](https://img.shields.io/badge/Email%20Me-mailtokatsign%40gmail.com-d8bfd8)
 
 ---
 This project is MIT licensed. &copy; 2021

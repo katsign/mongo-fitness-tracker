@@ -1,7 +1,7 @@
 {
-  "name": "mongoose_skeleton",
+  "name": "mongo-fitness-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "View, create and track daily workouts.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

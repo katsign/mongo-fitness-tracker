@@ -1,21 +1,21 @@
 function generatePalette() {
   const arr = [
-    '#003f5c',
-    '#2f4b7c',
-    '#665191',
-    '#a05195',
-    '#d45087',
-    '#f95d6a',
-    '#ff7c43',
-    'ffa600',
-    '#003f5c',
-    '#2f4b7c',
-    '#665191',
-    '#a05195',
-    '#d45087',
-    '#f95d6a',
-    '#ff7c43',
-    'ffa600',
+    '#FFC0CB',
+    '#E6E6FA',
+    '#FFDAB9',
+    '#AFEEEE',
+    '#DDA0DD',
+    '#DB7093',
+    '#D8BFD8',
+    '#ADD8E6',
+    '#FFC0CB',
+    '#E6E6FA',
+    '#FFDAB9',
+    '#AFEEEE',
+    '#DDA0DD',
+    '#DB7093',
+    '#D8BFD8',
+    '#ADD8E6',
   ];
 
   return arr;
@@ -54,8 +54,8 @@ function populateChart(data) {
       datasets: [
         {
           label: 'Workout Duration In Minutes',
-          backgroundColor: 'red',
-          borderColor: 'red',
+          backgroundColor: 'thistle',
+          borderColor: 'plum',
           data: durations,
           fill: false,
         },

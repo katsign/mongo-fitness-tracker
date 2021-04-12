@@ -7,8 +7,8 @@
 }
 
 html,
-body
-{
+body,
+.wrapper {
   height: 100%;
 }
 

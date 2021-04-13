@@ -31,10 +31,14 @@ Using an Express backend and MongoDB database, this full-stack web application a
 - To view progress charts and visuals, click `Dashboard` from the navbar.
 
 ## *Screenshots*
+<div align="center">
 
 ![Demo of Homepage](./public/images/ss_index.PNG)
 
-![Demo of Homepage](./public/images/ss_dash.PNG)
+![Put and Post Form UI](./public/images/ss_pp.PNG)
+
+![Demo of Dashboard](./public/images/ss_dash.PNG)
+</div>
 
 ## *Contact*
 

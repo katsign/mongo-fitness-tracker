@@ -35,7 +35,7 @@ Using an Express backend and MongoDB database, this full-stack web application a
 
 ![Demo of Homepage](./public/images/ss_index.PNG)
 
-![Put and Post Form UI](./public/images/ss_pp.PNG)
+![Put and Post Form UI](./public/images/ss_pp.png)
 
 ![Demo of Dashboard](./public/images/ss_dash.PNG)
 </div>

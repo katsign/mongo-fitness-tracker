@@ -1,5 +1,10 @@
+<div align="center">
+
 # MongoDB Fitness Tracker 🏃‍♀️
-![GitHub license](https://img.shields.io/badge/License-MIT-orange)
+![GitHub license](https://img.shields.io/badge/License-MIT-yellow)
+
+#### 📍 [View Deployment on Heroku](https://katsign-fitness-tracker.herokuapp.com/) 📍
+</div>
 
 ### This full-stack app uses Express and MongoDB to allow a user to view, create and track daily workouts.
 
@@ -14,8 +19,6 @@
 ## *Description*
 
 Using an Express backend and MongoDB database, this full-stack web application allows a user to view, create and track daily workouts. Users can reach their fitness goals more quickly when they have a customized dashboard to track their workout progress.
-
-### 📍 [View on Heroku](https://katsign-fitness-tracker.herokuapp.com/) 📍
 
 ## *Installation*
 
